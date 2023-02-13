@@ -22,7 +22,7 @@ The script can be run from a Python environment such as IDLE or in a code editor
 The script performs the following steps:
 
 Reads in two shapefiles, Study_Area_1.shp and Study_Area_2.shp using the read_file method from geopandas.
-Plots both shapefiles.
+Plots both shapefiles._
 Reads in a third shapefile, river.shp.
 Performs an intersection of Study_Area_1 and Study_Area_2, and plots the result.
 Performs a union of Study_Area_1 and Study_Area_2, and plots the result.
