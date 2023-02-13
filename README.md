@@ -18,9 +18,10 @@ pip install geopandas matplotlib pandas shapely
 The script can be run from a Python environment such as IDLE or in a code editor such as Visual Studio Code. Make sure to have the required libraries installed and the necessary shapefiles and data in the same directory as the script before running it.
 
 # Steps in the script
-## list
+
 The script performs the following steps:
 
+## list
 Reads in two shapefiles, Study_Area_1.shp and Study_Area_2.shp using the read_file method from geopandas.
 Plots both shapefiles._
 Reads in a third shapefile, river.shp.
